@@ -42,10 +42,10 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "",
+"UNITY_GAME_ID" : "4943689",
 "UNITY_TEST_MODE" : false,
 
-"STARAPPID" : "",
+"STARAPPID" : "208197995",
 
 "APPLOVIN_BANNER_ID" : "bdcedcbeee7d26ab",
 "APPLOVIN_INTERSTITIAL_ID" : "5d6192e8f9c2e460",
